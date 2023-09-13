@@ -10918,9 +10918,9 @@ footer.footer {
   padding-bottom: 4rem;
 }
 
-@media (max-width: 1400px) {
+@media (max-width: 800px) {
   .showcase-img {
     background-size: cover; 
-    background-position: center;
+    /*background-position: center;*/
   }
 }
